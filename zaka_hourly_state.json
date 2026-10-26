@@ -141,11 +141,12 @@
    "entry": 80491.14,
    "sl": 80358.11,
    "risk": 133.02999999999884,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793030400,
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1793027100|3": {
    "key": "SOLUSDT|1793027100|3",
@@ -156,11 +157,12 @@
    "entry": 102.26,
    "sl": 102.04,
    "risk": 0.21999999999999886,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793029800,
+   "var": "",
+   "amt": null
   }
  }
 }
