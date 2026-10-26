@@ -1,0 +1,29 @@
+{
+ "rules": "hourly-2026-10-26.1",
+ "bal0": 1000.0,
+ "balance": 1000.0,
+ "wins": 0,
+ "maxDD": 0.0,
+ "equity": [
+  [
+   0,
+   1000.0
+  ]
+ ],
+ "closed": [],
+ "open": [],
+ "risk": 1.0,
+ "fee": 0.05,
+ "start": 1792988534,
+ "symbols": [
+  "BTCUSDT",
+  "ETHUSDT",
+  "SOLUSDT"
+ ],
+ "strategies": [
+  "hourly"
+ ],
+ "timeframe": "5m",
+ "lastPoll": 1792988538.0903342,
+ "errors": {}
+}
