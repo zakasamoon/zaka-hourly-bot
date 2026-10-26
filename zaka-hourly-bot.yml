@@ -1,0 +1,35 @@
+name: Zaka hourly bot
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'      # every 5 minutes (GitHub may delay a run by a few minutes)
+  workflow_dispatch:           # the "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zaka-hourly-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check the pairs once and update the demo account
+        run: python zaka_hourly_bot.py --once
+      - name: Save the account
+        run: |
+          git config user.name "zaka-bot"
+          git config user.email "zaka-bot@users.noreply.github.com"
+          git add zaka_hourly_state.json public_state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "demo account update"
+            git pull --rebase
+            git push
+          fi
