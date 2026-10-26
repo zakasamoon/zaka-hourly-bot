@@ -11,7 +11,24 @@
   ]
  ],
  "closed": [],
- "open": [],
+ "open": [
+  {
+   "key": "SOLUSDT|1792995000|4",
+   "sym": "SOLUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1792995000,
+   "entry": 101.06,
+   "sl": 101.31,
+   "risk": 0.25,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": "",
+   "amt": 10.0
+  }
+ ],
  "risk": 1.0,
  "fee": 0.05,
  "start": 1792988534,
@@ -24,6 +41,6 @@
   "hourly"
  ],
  "timeframe": "5m",
- "lastPoll": 1792993377.491299,
+ "lastPoll": 1792995539.2881813,
  "errors": {}
 }

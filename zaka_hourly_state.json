@@ -4,5 +4,21 @@
  "fee": 0.05,
  "rules": "hourly-2026-10-26.1",
  "start": 1792988534,
- "led": {}
+ "led": {
+  "SOLUSDT|1792995000|4": {
+   "key": "SOLUSDT|1792995000|4",
+   "sym": "SOLUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1792995000,
+   "entry": 101.06,
+   "sl": 101.31,
+   "risk": 0.25,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  }
+ }
 }
