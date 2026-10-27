@@ -249,11 +249,12 @@
    "entry": 100.95,
    "sl": 100.64,
    "risk": 0.3100000000000023,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793064000,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1793059800|3": {
    "key": "ETHUSDT|1793059800|3",
@@ -264,11 +265,12 @@
    "entry": 2327.49,
    "sl": 2323.53,
    "risk": 3.9599999999995816,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793064000,
+   "var": "",
+   "amt": null
   }
  }
 }
