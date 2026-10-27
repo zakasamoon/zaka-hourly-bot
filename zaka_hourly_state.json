@@ -224,6 +224,36 @@
    "ct": 1793052300,
    "var": "",
    "amt": null
+  },
+  "ETHUSDT|1793057400|3": {
+   "key": "ETHUSDT|1793057400|3",
+   "sym": "ETHUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1793057400,
+   "entry": 2321.25,
+   "sl": 2314.0,
+   "risk": 7.25,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "SOLUSDT|1793057700|3": {
+   "key": "SOLUSDT|1793057700|3",
+   "sym": "SOLUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1793057700,
+   "entry": 100.95,
+   "sl": 100.64,
+   "risk": 0.3100000000000023,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
