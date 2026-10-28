@@ -519,10 +519,10 @@
    "entry": 2362.02,
    "sl": 2368.52,
    "risk": 6.5,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1793212500,
    "var": "",
    "amt": null
   },
@@ -551,10 +551,10 @@
    "entry": 81400.95,
    "sl": 81464.77,
    "risk": 63.820000000006985,
-   "res": "open",
+   "res": "partial",
    "hits": 4,
-   "net": null,
-   "ct": null,
+   "net": 5.05,
+   "ct": 1793210400,
    "var": "",
    "amt": null
   },
@@ -567,10 +567,10 @@
    "entry": 2354.8,
    "sl": 2362.48,
    "risk": 7.679999999999836,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1793210400,
    "var": "",
    "amt": null
   },
@@ -598,11 +598,12 @@
    "entry": 80842.46,
    "sl": 80717.08,
    "risk": 125.38000000000466,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793211300,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1793209800|3": {
    "key": "ETHUSDT|1793209800|3",
@@ -613,11 +614,12 @@
    "entry": 2346.11,
    "sl": 2340.44,
    "risk": 5.670000000000073,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793210700,
+   "var": "",
+   "amt": null
   }
  }
 }
