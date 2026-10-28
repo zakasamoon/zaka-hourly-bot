@@ -394,10 +394,11 @@
    "sl": 80399.79,
    "risk": 197.63999999999942,
    "res": "open",
-   "hits": 0,
+   "hits": 2,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1793130000|3": {
    "key": "SOLUSDT|1793130000|3",
@@ -486,10 +487,11 @@
    "sl": 81080.49,
    "risk": 111.98999999999069,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1793174700|3": {
    "key": "ETHUSDT|1793174700|3",
@@ -501,10 +503,11 @@
    "sl": 2361.13,
    "risk": 4.859999999999673,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   }
  }
 }
