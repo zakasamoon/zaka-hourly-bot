@@ -550,10 +550,11 @@
    "sl": 81464.77,
    "risk": 63.820000000006985,
    "res": "open",
-   "hits": 2,
+   "hits": 3,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1793189100|4": {
    "key": "ETHUSDT|1793189100|4",
