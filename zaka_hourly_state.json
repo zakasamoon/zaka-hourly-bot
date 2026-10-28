@@ -502,10 +502,10 @@
    "entry": 2365.99,
    "sl": 2361.13,
    "risk": 4.859999999999673,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1793179800,
    "var": "",
    "amt": null
   }
