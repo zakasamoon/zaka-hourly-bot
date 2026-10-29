@@ -646,10 +646,10 @@
    "entry": 80962.75,
    "sl": 81112.75,
    "risk": 150.0,
-   "res": "open",
+   "res": "partial",
    "hits": 3,
-   "net": null,
-   "ct": null,
+   "net": 4.449999999999999,
+   "ct": 1793250300,
    "var": "",
    "amt": null
   },
@@ -678,10 +678,10 @@
    "entry": 101.64,
    "sl": 101.89,
    "risk": 0.25,
-   "res": "open",
+   "res": "partial",
    "hits": 3,
-   "net": null,
-   "ct": null,
+   "net": 4.449999999999999,
+   "ct": 1793250600,
    "var": "",
    "amt": null
   },
@@ -716,6 +716,36 @@
    "ct": 1793240400,
    "var": "",
    "amt": null
+  },
+  "BTCUSDT|1793249100|3": {
+   "key": "BTCUSDT|1793249100|3",
+   "sym": "BTCUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1793249100,
+   "entry": 80146.27,
+   "sl": 80024.8,
+   "risk": 121.47000000000116,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "SOLUSDT|1793249400|3": {
+   "key": "SOLUSDT|1793249400|3",
+   "sym": "SOLUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1793249400,
+   "entry": 100.27,
+   "sl": 100.07,
+   "risk": 0.20000000000000284,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
