@@ -808,6 +808,36 @@
    "net": null,
    "ct": null,
    "var": ""
+  },
+  "BTCUSDT|1793293800|4": {
+   "key": "BTCUSDT|1793293800|4",
+   "sym": "BTCUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1793293800,
+   "entry": 80959.51,
+   "sl": 81200.0,
+   "risk": 240.49000000000524,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "SOLUSDT|1793293800|4": {
+   "key": "SOLUSDT|1793293800|4",
+   "sym": "SOLUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1793293800,
+   "entry": 101.61,
+   "sl": 101.85,
+   "risk": 0.23999999999999488,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
