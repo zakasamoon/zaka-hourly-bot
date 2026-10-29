@@ -647,7 +647,7 @@
    "sl": 81112.75,
    "risk": 150.0,
    "res": "open",
-   "hits": 2,
+   "hits": 3,
    "net": null,
    "ct": null,
    "var": "",
@@ -663,7 +663,7 @@
    "sl": 2355.0,
    "risk": 8.670000000000073,
    "res": "open",
-   "hits": 1,
+   "hits": 2,
    "net": null,
    "ct": null,
    "var": "",
@@ -709,11 +709,12 @@
    "entry": 99.58,
    "sl": 100.01,
    "risk": 0.4300000000000068,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793240400,
+   "var": "",
+   "amt": null
   }
  }
 }
