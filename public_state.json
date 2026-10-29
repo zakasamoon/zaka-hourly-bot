@@ -1167,7 +1167,7 @@
    "sl": 81200.0,
    "risk": 240.49000000000524,
    "res": "open",
-   "hits": 1,
+   "hits": 3,
    "net": null,
    "ct": null,
    "var": "",
@@ -1183,7 +1183,7 @@
    "sl": 101.85,
    "risk": 0.23999999999999488,
    "res": "open",
-   "hits": 4,
+   "hits": 6,
    "net": null,
    "ct": null,
    "var": "",
@@ -1199,7 +1199,7 @@
    "sl": 100.86,
    "risk": 0.3499999999999943,
    "res": "open",
-   "hits": 2,
+   "hits": 4,
    "net": null,
    "ct": null,
    "var": "",
@@ -1266,6 +1266,6 @@
   "hourly"
  ],
  "timeframe": "5m",
- "lastPoll": 1793306469.1200447,
+ "lastPoll": 1793308973.8685467,
  "errors": {}
 }
