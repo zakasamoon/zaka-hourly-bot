@@ -1206,6 +1206,21 @@
    "net": null,
    "ct": null,
    "var": ""
+  },
+  "SOLUSDT|1793392200|3": {
+   "key": "SOLUSDT|1793392200|3",
+   "sym": "SOLUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1793392200,
+   "entry": 95.22,
+   "sl": 94.91,
+   "risk": 0.3100000000000023,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
