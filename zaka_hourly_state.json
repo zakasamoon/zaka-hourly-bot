@@ -1123,11 +1123,12 @@
    "entry": 77696.93,
    "sl": 77210.97,
    "risk": 485.95999999999185,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793378700,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1793372700|3": {
    "key": "ETHUSDT|1793372700|3",
