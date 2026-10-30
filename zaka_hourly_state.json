@@ -965,10 +965,11 @@
    "sl": 95.39,
    "risk": 0.6200000000000045,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "BTCUSDT|1793331000|3": {
    "key": "BTCUSDT|1793331000|3",
@@ -995,10 +996,11 @@
    "sl": 2219.27,
    "risk": 6.400000000000091,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1793334600|3": {
    "key": "SOLUSDT|1793334600|3",
@@ -1010,10 +1012,11 @@
    "sl": 97.17,
    "risk": 0.20000000000000284,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   }
  }
 }
