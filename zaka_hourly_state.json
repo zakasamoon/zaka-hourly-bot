@@ -954,6 +954,21 @@
    "ct": 1793321400,
    "var": "",
    "amt": null
+  },
+  "SOLUSDT|1793329500|3": {
+   "key": "SOLUSDT|1793329500|3",
+   "sym": "SOLUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1793329500,
+   "entry": 96.01,
+   "sl": 95.39,
+   "risk": 0.6200000000000045,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
