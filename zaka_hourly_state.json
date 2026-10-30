@@ -1029,10 +1029,11 @@
    "sl": 78017.87,
    "risk": 239.26999999998952,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1793349600|4": {
    "key": "ETHUSDT|1793349600|4",
@@ -1096,6 +1097,21 @@
    "ct": 1793364000,
    "var": "",
    "amt": null
+  },
+  "ETHUSDT|1793367900|4": {
+   "key": "ETHUSDT|1793367900|4",
+   "sym": "ETHUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1793367900,
+   "entry": 2216.55,
+   "sl": 2232.27,
+   "risk": 15.7199999999998,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
