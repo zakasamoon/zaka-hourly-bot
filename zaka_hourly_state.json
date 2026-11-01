@@ -1201,10 +1201,10 @@
    "entry": 94.98,
    "sl": 94.6,
    "risk": 0.38000000000000966,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1793535300,
    "var": "",
    "amt": null
   },
@@ -1375,11 +1375,12 @@
    "entry": 2270.13,
    "sl": 2263.07,
    "risk": 7.059999999999945,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793535300,
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1793500200|4": {
    "key": "SOLUSDT|1793500200|4",
@@ -1460,6 +1461,21 @@
    "ct": 1793524800,
    "var": "",
    "amt": null
+  },
+  "SOLUSDT|1793535600|4": {
+   "key": "SOLUSDT|1793535600|4",
+   "sym": "SOLUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1793535600,
+   "entry": 94.66,
+   "sl": 95.27,
+   "risk": 0.6099999999999994,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
