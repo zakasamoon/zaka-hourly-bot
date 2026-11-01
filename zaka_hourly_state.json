@@ -1344,10 +1344,10 @@
    "entry": 77638.04,
    "sl": 77540.07,
    "risk": 97.96999999998661,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1793559900,
    "var": "",
    "amt": null
   },
@@ -1493,6 +1493,21 @@
    "ct": 1793553300,
    "var": "",
    "amt": null
+  },
+  "SOLUSDT|1793559300|4": {
+   "key": "SOLUSDT|1793559300|4",
+   "sym": "SOLUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1793559300,
+   "entry": 94.35,
+   "sl": 94.59,
+   "risk": 0.2400000000000091,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
