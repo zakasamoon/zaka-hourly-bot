@@ -1518,11 +1518,12 @@
    "entry": 77702.51,
    "sl": 77892.22,
    "risk": 189.7100000000064,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793565900,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1793560200|4": {
    "key": "ETHUSDT|1793560200|4",
@@ -1533,11 +1534,12 @@
    "entry": 2257.61,
    "sl": 2263.77,
    "risk": 6.1599999999998545,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793566200,
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1793560200|4": {
    "key": "SOLUSDT|1793560200|4",
