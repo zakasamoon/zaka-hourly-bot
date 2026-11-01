@@ -1508,6 +1508,51 @@
    "net": null,
    "ct": null,
    "var": ""
+  },
+  "BTCUSDT|1793560200|4": {
+   "key": "BTCUSDT|1793560200|4",
+   "sym": "BTCUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1793560200,
+   "entry": 77702.51,
+   "sl": 77892.22,
+   "risk": 189.7100000000064,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "ETHUSDT|1793560200|4": {
+   "key": "ETHUSDT|1793560200|4",
+   "sym": "ETHUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1793560200,
+   "entry": 2257.61,
+   "sl": 2263.77,
+   "risk": 6.1599999999998545,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "SOLUSDT|1793560200|4": {
+   "key": "SOLUSDT|1793560200|4",
+   "sym": "SOLUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1793560200,
+   "entry": 93.89,
+   "sl": 94.44,
+   "risk": 0.5499999999999972,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
