@@ -1630,10 +1630,10 @@
    "entry": 2271.76,
    "sl": 2262.67,
    "risk": 9.090000000000146,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1793634900,
    "var": "",
    "amt": null
   },
@@ -1646,11 +1646,12 @@
    "entry": 2289.18,
    "sl": 2276.19,
    "risk": 12.989999999999782,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793634900,
+   "var": "",
+   "amt": null
   },
   "BTCUSDT|1793596500|4": {
    "key": "BTCUSDT|1793596500|4",
