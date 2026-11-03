@@ -1959,11 +1959,12 @@
    "entry": 77673.07,
    "sl": 77395.29,
    "risk": 277.7800000000134,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793722800,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1793720700|3": {
    "key": "ETHUSDT|1793720700|3",
