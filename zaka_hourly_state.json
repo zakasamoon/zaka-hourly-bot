@@ -1990,11 +1990,12 @@
    "entry": 2289.18,
    "sl": 2293.05,
    "risk": 3.8700000000003456,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793733600,
+   "var": "",
+   "amt": null
   }
  }
 }
