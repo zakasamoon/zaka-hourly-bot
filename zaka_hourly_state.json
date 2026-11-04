@@ -2415,11 +2415,12 @@
    "entry": 2432.22,
    "sl": 2425.16,
    "risk": 7.059999999999945,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793834100,
+   "var": "",
+   "amt": null
   }
  }
 }
