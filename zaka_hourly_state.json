@@ -2213,6 +2213,21 @@
    "net": null,
    "ct": null,
    "var": ""
+  },
+  "ETHUSDT|1793780100|3": {
+   "key": "ETHUSDT|1793780100|3",
+   "sym": "ETHUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1793780100,
+   "entry": 2325.4,
+   "sl": 2312.14,
+   "risk": 13.260000000000218,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
