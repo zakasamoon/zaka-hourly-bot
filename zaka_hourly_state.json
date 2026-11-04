@@ -2148,10 +2148,11 @@
    "sl": 2247.55,
    "risk": 12.480000000000018,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1793765100|3": {
    "key": "SOLUSDT|1793765100|3",
