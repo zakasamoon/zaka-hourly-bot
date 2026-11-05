@@ -2400,11 +2400,12 @@
    "entry": 80450.07,
    "sl": 80274.59,
    "risk": 175.48000000001048,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793841600,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1793830800|3": {
    "key": "ETHUSDT|1793830800|3",
