@@ -2480,10 +2480,11 @@
    "sl": 80240.47,
    "risk": 93.41999999999825,
    "res": "open",
-   "hits": 0,
+   "hits": 2,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1793880300|4": {
    "key": "SOLUSDT|1793880300|4",
