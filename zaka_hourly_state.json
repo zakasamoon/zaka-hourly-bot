@@ -2482,10 +2482,10 @@
    "entry": 80147.05,
    "sl": 80240.47,
    "risk": 93.41999999999825,
-   "res": "open",
-   "hits": 8,
-   "net": null,
-   "ct": null,
+   "res": "win",
+   "hits": 9,
+   "net": 15.475,
+   "ct": 1793977500,
    "var": "",
    "amt": null
   },
@@ -2761,11 +2761,12 @@
    "entry": 75793.14,
    "sl": 76101.96,
    "risk": 308.820000000007,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793976600,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1793972400|4": {
    "key": "ETHUSDT|1793972400|4",
