@@ -2808,11 +2808,12 @@
    "entry": 75982.0,
    "sl": 75885.65,
    "risk": 96.35000000000582,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1793995800,
+   "var": "",
+   "amt": null
   }
  }
 }
