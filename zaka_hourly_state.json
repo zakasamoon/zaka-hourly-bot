@@ -3061,11 +3061,12 @@
    "entry": 2228.64,
    "sl": 2233.15,
    "risk": 4.510000000000218,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1794088800,
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1794083100|4": {
    "key": "SOLUSDT|1794083100|4",
