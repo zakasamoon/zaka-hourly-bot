@@ -2921,10 +2921,11 @@
    "sl": 90.19,
    "risk": 0.0799999999999983,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   }
  }
 }
