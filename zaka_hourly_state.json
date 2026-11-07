@@ -2920,10 +2920,10 @@
    "entry": 90.11,
    "sl": 90.19,
    "risk": 0.0799999999999983,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1794062700,
    "var": "",
    "amt": null
   },
