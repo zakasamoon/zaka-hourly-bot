@@ -2904,10 +2904,11 @@
    "sl": 76094.48,
    "risk": 17.54000000000815,
    "res": "open",
-   "hits": 0,
+   "hits": 2,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   }
  }
 }
