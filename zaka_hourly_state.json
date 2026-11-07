@@ -2968,10 +2968,11 @@
    "sl": 2245.07,
    "risk": 2.1700000000000728,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1794063900|4": {
    "key": "SOLUSDT|1794063900|4",
