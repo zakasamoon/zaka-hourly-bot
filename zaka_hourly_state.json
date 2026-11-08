@@ -3045,10 +3045,10 @@
    "entry": 89.6,
    "sl": 89.7,
    "risk": 0.10000000000000853,
-   "res": "open",
+   "res": "partial",
    "hits": 2,
-   "net": null,
-   "ct": null,
+   "net": 2.05,
+   "ct": 1794094800,
    "var": "",
    "amt": null
   },
