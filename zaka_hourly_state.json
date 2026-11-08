@@ -870,7 +870,7 @@
    "sl": 100.86,
    "risk": 0.3499999999999943,
    "res": "open",
-   "hits": 7,
+   "hits": 8,
    "net": null,
    "ct": null,
    "var": "",
@@ -2499,7 +2499,7 @@
    "sl": 96.52,
    "risk": 0.36999999999999034,
    "res": "open",
-   "hits": 6,
+   "hits": 7,
    "net": null,
    "ct": null,
    "var": "",
@@ -2530,10 +2530,11 @@
    "sl": 2344.51,
    "risk": 42.870000000000346,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1793900400|4": {
    "key": "SOLUSDT|1793900400|4",
@@ -2984,10 +2985,11 @@
    "sl": 89.97,
    "risk": 0.2600000000000051,
    "res": "open",
-   "hits": 0,
+   "hits": 4,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1794075000|3": {
    "key": "SOLUSDT|1794075000|3",
@@ -3342,10 +3344,11 @@
    "sl": 75988.09,
    "risk": 220.44000000000233,
    "res": "open",
-   "hits": 0,
+   "hits": 3,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1794155700|4": {
    "key": "SOLUSDT|1794155700|4",
@@ -3421,10 +3424,11 @@
    "sl": 2233.06,
    "risk": 4.949999999999818,
    "res": "open",
-   "hits": 0,
+   "hits": 6,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "BTCUSDT|1794171000|4": {
    "key": "BTCUSDT|1794171000|4",
@@ -3436,10 +3440,11 @@
    "sl": 75835.03,
    "risk": 57.39999999999418,
    "res": "open",
-   "hits": 0,
+   "hits": 7,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "BTCUSDT|1794173400|4": {
    "key": "BTCUSDT|1794173400|4",
@@ -3451,7 +3456,23 @@
    "sl": 75765.24,
    "risk": 86.09000000001106,
    "res": "open",
-   "hits": 0,
+   "hits": 6,
+   "net": null,
+   "ct": null,
+   "var": "",
+   "amt": null
+  },
+  "ETHUSDT|1794174300|4": {
+   "key": "ETHUSDT|1794174300|4",
+   "sym": "ETHUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1794174300,
+   "entry": 2213.65,
+   "sl": 2226.08,
+   "risk": 12.429999999999836,
+   "res": "open",
+   "hits": 3,
    "net": null,
    "ct": null,
    "var": ""
