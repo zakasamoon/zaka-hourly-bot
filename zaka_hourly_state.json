@@ -3217,11 +3217,12 @@
    "entry": 89.35,
    "sl": 89.23,
    "risk": 0.11999999999999034,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1794124800,
+   "var": "",
+   "amt": null
   }
  }
 }
