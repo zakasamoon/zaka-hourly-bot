@@ -3372,11 +3372,12 @@
    "entry": 75922.46,
    "sl": 75804.47,
    "risk": 117.99000000000524,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1794170100,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1794161700|3": {
    "key": "ETHUSDT|1794161700|3",
@@ -3418,6 +3419,21 @@
    "entry": 2228.11,
    "sl": 2233.06,
    "risk": 4.949999999999818,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "BTCUSDT|1794171000|4": {
+   "key": "BTCUSDT|1794171000|4",
+   "sym": "BTCUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1794171000,
+   "entry": 75777.63,
+   "sl": 75835.03,
+   "risk": 57.39999999999418,
    "res": "open",
    "hits": 0,
    "net": null,
