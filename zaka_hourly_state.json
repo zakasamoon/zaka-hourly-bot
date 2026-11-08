@@ -3357,10 +3357,11 @@
    "sl": 89.57,
    "risk": 0.12999999999999545,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   }
  }
 }
