@@ -3294,11 +3294,12 @@
    "entry": 2239.27,
    "sl": 2236.86,
    "risk": 2.4099999999998545,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1794145200,
+   "var": "",
+   "amt": null
   },
   "BTCUSDT|1794143100|3": {
    "key": "BTCUSDT|1794143100|3",
@@ -3309,11 +3310,12 @@
    "entry": 76029.99,
    "sl": 75969.73,
    "risk": 60.26000000000931,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1794144900,
+   "var": "",
+   "amt": null
   }
  }
 }
