@@ -3534,12 +3534,27 @@
    "entry": 74634.65,
    "sl": 74817.02,
    "risk": 182.3700000000099,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1794214800,
    "var": "",
    "amt": null
+  },
+  "BTCUSDT|1794214500|3": {
+   "key": "BTCUSDT|1794214500|3",
+   "sym": "BTCUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1794214500,
+   "entry": 74576.13,
+   "sl": 74363.1,
+   "risk": 213.02999999999884,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
