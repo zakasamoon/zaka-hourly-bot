@@ -3882,6 +3882,36 @@
    "net": -1.0,
    "ct": 1794381600,
    "var": ""
+  },
+  "BTCUSDT|1794389700|4": {
+   "key": "BTCUSDT|1794389700|4",
+   "sym": "BTCUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1794389700,
+   "entry": 73579.58,
+   "sl": 73769.83,
+   "risk": 190.25,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "ETHUSDT|1794389700|4": {
+   "key": "ETHUSDT|1794389700|4",
+   "sym": "ETHUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1794389700,
+   "entry": 2049.74,
+   "sl": 2057.83,
+   "risk": 8.090000000000146,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
