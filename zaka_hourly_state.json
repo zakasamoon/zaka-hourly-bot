@@ -4065,10 +4065,11 @@
    "sl": 74407.36,
    "risk": 214.7899999999936,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "BTCUSDT|1794438600|4": {
    "key": "BTCUSDT|1794438600|4",
