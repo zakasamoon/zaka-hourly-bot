@@ -4180,6 +4180,36 @@
    "net": null,
    "ct": null,
    "var": ""
+  },
+  "SOLUSDT|1794524700|3": {
+   "key": "SOLUSDT|1794524700|3",
+   "sym": "SOLUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1794524700,
+   "entry": 81.69,
+   "sl": 81.43,
+   "risk": 0.2599999999999909,
+   "res": "loss",
+   "hits": 0,
+   "net": -1.0,
+   "ct": 1794525600,
+   "var": ""
+  },
+  "SOLUSDT|1794526200|3": {
+   "key": "SOLUSDT|1794526200|3",
+   "sym": "SOLUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1794526200,
+   "entry": 81.69,
+   "sl": 81.47,
+   "risk": 0.21999999999999886,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
