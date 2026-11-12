@@ -4079,11 +4079,12 @@
    "entry": 73510.39,
    "sl": 73976.57,
    "risk": 466.18000000000757,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1794441000,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1794436500|4": {
    "key": "ETHUSDT|1794436500|4",
