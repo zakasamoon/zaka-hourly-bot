@@ -4252,10 +4252,10 @@
    "entry": 69668.12,
    "sl": 70068.39,
    "risk": 400.2700000000041,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1794576600,
    "var": "",
    "amt": null
   },
@@ -4330,10 +4330,11 @@
    "sl": 68863.29,
    "risk": 215.08000000000175,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "BTCUSDT|1794564300|3": {
    "key": "BTCUSDT|1794564300|3",
@@ -4345,10 +4346,11 @@
    "sl": 69100.0,
    "risk": 190.89999999999418,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1794564300|3": {
    "key": "ETHUSDT|1794564300|3",
@@ -4360,10 +4362,11 @@
    "sl": 1941.62,
    "risk": 8.38000000000011,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1794564300|3": {
    "key": "SOLUSDT|1794564300|3",
@@ -4375,10 +4378,11 @@
    "sl": 79.99,
    "risk": 0.38000000000000966,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1794570000|3": {
    "key": "ETHUSDT|1794570000|3",
@@ -4389,6 +4393,52 @@
    "entry": 1960.39,
    "sl": 1955.95,
    "risk": 4.440000000000055,
+   "res": "loss",
+   "hits": 0,
+   "net": -1.0,
+   "ct": 1794575700,
+   "var": "",
+   "amt": null
+  },
+  "BTCUSDT|1794576900|3": {
+   "key": "BTCUSDT|1794576900|3",
+   "sym": "BTCUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1794576900,
+   "entry": 69966.44,
+   "sl": 69200.0,
+   "risk": 766.4400000000023,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "ETHUSDT|1794576900|3": {
+   "key": "ETHUSDT|1794576900|3",
+   "sym": "ETHUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1794576900,
+   "entry": 1981.07,
+   "sl": 1952.76,
+   "risk": 28.309999999999945,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "SOLUSDT|1794576900|3": {
+   "key": "SOLUSDT|1794576900|3",
+   "sym": "SOLUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1794576900,
+   "entry": 82.2,
+   "sl": 80.61,
+   "risk": 1.5900000000000034,
    "res": "open",
    "hits": 0,
    "net": null,
