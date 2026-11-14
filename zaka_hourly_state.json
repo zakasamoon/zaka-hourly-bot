@@ -2498,10 +2498,10 @@
    "entry": 96.15,
    "sl": 96.52,
    "risk": 0.36999999999999034,
-   "res": "open",
-   "hits": 8,
-   "net": null,
-   "ct": null,
+   "res": "win",
+   "hits": 9,
+   "net": 15.475,
+   "ct": 1794623100,
    "var": "",
    "amt": null
   },
@@ -4176,7 +4176,7 @@
    "sl": 72456.34,
    "risk": 539.9700000000012,
    "res": "open",
-   "hits": 2,
+   "hits": 3,
    "net": null,
    "ct": null,
    "var": "",
@@ -4489,10 +4489,11 @@
    "sl": 68919.19,
    "risk": 281.5599999999977,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1794603900|4": {
    "key": "ETHUSDT|1794603900|4",
@@ -4504,10 +4505,11 @@
    "sl": 1948.71,
    "risk": 11.009999999999991,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "BTCUSDT|1794614700|3": {
    "key": "BTCUSDT|1794614700|3",
@@ -4565,10 +4567,11 @@
    "sl": 77.75,
    "risk": 0.3199999999999932,
    "res": "open",
-   "hits": 0,
+   "hits": 2,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1794622500|4": {
    "key": "ETHUSDT|1794622500|4",
@@ -4580,10 +4583,11 @@
    "sl": 1927.69,
    "risk": 7.059999999999945,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1794622200|4": {
    "key": "SOLUSDT|1794622200|4",
@@ -4595,10 +4599,11 @@
    "sl": 77.03,
    "risk": 0.3299999999999983,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   }
  }
 }
