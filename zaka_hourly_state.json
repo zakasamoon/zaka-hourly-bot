@@ -4665,6 +4665,21 @@
    "net": null,
    "ct": null,
    "var": ""
+  },
+  "BTCUSDT|1794649800|3": {
+   "key": "BTCUSDT|1794649800|3",
+   "sym": "BTCUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1794649800,
+   "entry": 67447.26,
+   "sl": 67166.54,
+   "risk": 280.72000000000116,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
