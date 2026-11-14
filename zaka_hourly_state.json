@@ -4660,11 +4660,12 @@
    "entry": 75.76,
    "sl": 75.54,
    "risk": 0.21999999999999886,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1794661200,
+   "var": "",
+   "amt": null
   },
   "BTCUSDT|1794649800|3": {
    "key": "BTCUSDT|1794649800|3",
@@ -4681,6 +4682,51 @@
    "ct": 1794655800,
    "var": "",
    "amt": null
+  },
+  "BTCUSDT|1794661500|4": {
+   "key": "BTCUSDT|1794661500|4",
+   "sym": "BTCUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1794661500,
+   "entry": 66803.55,
+   "sl": 67021.0,
+   "risk": 217.4499999999971,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "ETHUSDT|1794661500|4": {
+   "key": "ETHUSDT|1794661500|4",
+   "sym": "ETHUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1794661500,
+   "entry": 1893.78,
+   "sl": 1900.32,
+   "risk": 6.539999999999964,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "SOLUSDT|1794662400|4": {
+   "key": "SOLUSDT|1794662400|4",
+   "sym": "SOLUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1794662400,
+   "entry": 75.27,
+   "sl": 75.69,
+   "risk": 0.4200000000000017,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
   }
  }
 }
