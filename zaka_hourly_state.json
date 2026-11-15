@@ -5083,11 +5083,12 @@
    "entry": 65883.11,
    "sl": 65123.9,
    "risk": 759.2099999999991,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1794735300,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1794733500|3": {
    "key": "ETHUSDT|1794733500|3",
