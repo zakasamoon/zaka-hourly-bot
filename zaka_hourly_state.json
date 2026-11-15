@@ -4974,10 +4974,10 @@
    "entry": 1808.04,
    "sl": 1813.62,
    "risk": 5.579999999999927,
-   "res": "open",
-   "hits": 1,
-   "net": null,
-   "ct": null,
+   "res": "partial",
+   "hits": 2,
+   "net": 2.05,
+   "ct": 1794731400,
    "var": "",
    "amt": null
   },
@@ -5005,11 +5005,12 @@
    "entry": 1786.03,
    "sl": 1801.29,
    "risk": 15.259999999999991,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1794731400,
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1794722700|4": {
    "key": "SOLUSDT|1794722700|4",
@@ -5035,11 +5036,12 @@
    "entry": 63904.9,
    "sl": 64256.98,
    "risk": 352.08000000000175,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1794730800,
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1794724500|4": {
    "key": "SOLUSDT|1794724500|4",
@@ -5050,10 +5052,26 @@
    "entry": 70.51,
    "sl": 70.84,
    "risk": 0.3299999999999983,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
+   "net": -1.0,
+   "ct": 1794731400,
+   "var": "",
+   "amt": null
+  },
+  "ETHUSDT|1794728700|4": {
+   "key": "ETHUSDT|1794728700|4",
+   "sym": "ETHUSDT",
+   "dir": -1,
+   "n": 4,
+   "t": 1794728700,
+   "entry": 1776.75,
+   "sl": 1786.67,
+   "risk": 9.920000000000073,
+   "res": "loss",
+   "hits": 0,
+   "net": -1.0,
+   "ct": 1794729900,
    "var": ""
   }
  }
