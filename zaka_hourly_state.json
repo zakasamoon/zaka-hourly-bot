@@ -5631,10 +5631,11 @@
    "sl": 1828.15,
    "risk": 7.170000000000073,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1794906900|4": {
    "key": "SOLUSDT|1794906900|4",
