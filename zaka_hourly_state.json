@@ -5867,10 +5867,11 @@
    "sl": 64592.59,
    "risk": 149.45999999999913,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1794997200|4": {
    "key": "ETHUSDT|1794997200|4",
@@ -5882,10 +5883,11 @@
    "sl": 1811.73,
    "risk": 4.660000000000082,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1795005900|4": {
    "key": "SOLUSDT|1795005900|4",
