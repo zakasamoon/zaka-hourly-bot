@@ -6007,11 +6007,12 @@
    "entry": 1758.27,
    "sl": 1770.47,
    "risk": 12.200000000000045,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1795043100,
+   "var": "",
+   "amt": null
   },
   "BTCUSDT|1795034700|4": {
    "key": "BTCUSDT|1795034700|4",
