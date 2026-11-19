@@ -6226,11 +6226,12 @@
    "entry": 74.64,
    "sl": 74.17,
    "risk": 0.46999999999999886,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1795114200,
+   "var": "",
+   "amt": null
   }
  }
 }
