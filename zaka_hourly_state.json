@@ -5884,10 +5884,10 @@
    "entry": 1807.07,
    "sl": 1811.73,
    "risk": 4.660000000000082,
-   "res": "open",
+   "res": "partial",
    "hits": 4,
-   "net": null,
-   "ct": null,
+   "net": 5.05,
+   "ct": 1795050000,
    "var": "",
    "amt": null
   },
