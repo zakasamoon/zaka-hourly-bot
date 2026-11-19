@@ -8515,7 +8515,7 @@
    "sl": 78288.61,
    "risk": 971.8699999999953,
    "res": "open",
-   "hits": 4,
+   "hits": 5,
    "net": null,
    "ct": null,
    "var": "",
@@ -8726,6 +8726,6 @@
   "hourly"
  ],
  "timeframe": "5m",
- "lastPoll": 1795120765.3409305,
+ "lastPoll": 1795124019.5107388,
  "errors": {}
 }
