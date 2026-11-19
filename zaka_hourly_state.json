@@ -6086,11 +6086,12 @@
    "entry": 63500.53,
    "sl": 63341.18,
    "risk": 159.34999999999854,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1795066500,
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1795062300|3": {
    "key": "SOLUSDT|1795062300|3",
