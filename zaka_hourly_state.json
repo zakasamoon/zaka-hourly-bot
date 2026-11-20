@@ -6398,11 +6398,12 @@
    "entry": 1736.45,
    "sl": 1750.67,
    "risk": 14.220000000000027,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1795182300,
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1795176300|4": {
    "key": "SOLUSDT|1795176300|4",
