@@ -6382,11 +6382,12 @@
    "entry": 62173.39,
    "sl": 61873.76,
    "risk": 299.6299999999974,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1795172700,
+   "var": "",
+   "amt": null
   }
  }
 }
