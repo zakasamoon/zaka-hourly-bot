@@ -6743,11 +6743,12 @@
    "entry": 1709.19,
    "sl": 1676.05,
    "risk": 33.1400000000001,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1795274100,
+   "var": "",
+   "amt": null
   }
  }
 }
