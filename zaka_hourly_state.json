@@ -6667,10 +6667,11 @@
    "sl": 56287.5,
    "risk": 926.5,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1795243200|3": {
    "key": "SOLUSDT|1795243200|3",
