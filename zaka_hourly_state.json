@@ -6462,10 +6462,10 @@
    "entry": 1641.13,
    "sl": 1659.0,
    "risk": 17.86999999999989,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1795243500,
    "var": "",
    "amt": null
   },
@@ -6588,10 +6588,10 @@
    "entry": 58228.55,
    "sl": 58618.39,
    "risk": 389.8399999999965,
-   "res": "open",
+   "res": "partial",
    "hits": 2,
-   "net": null,
-   "ct": null,
+   "net": 2.05,
+   "ct": 1795244700,
    "var": "",
    "amt": null
   },
@@ -6634,11 +6634,12 @@
    "entry": 55776.76,
    "sl": 56843.32,
    "risk": 1066.5599999999977,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1795243200,
+   "var": "",
+   "amt": null
   },
   "ETHUSDT|1795235100|4": {
    "key": "ETHUSDT|1795235100|4",
@@ -6653,6 +6654,36 @@
    "hits": 0,
    "net": -1.0,
    "ct": 1795235400,
+   "var": ""
+  },
+  "BTCUSDT|1795243200|3": {
+   "key": "BTCUSDT|1795243200|3",
+   "sym": "BTCUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1795243200,
+   "entry": 57214.0,
+   "sl": 56287.5,
+   "risk": 926.5,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
+   "var": ""
+  },
+  "SOLUSDT|1795243200|3": {
+   "key": "SOLUSDT|1795243200|3",
+   "sym": "SOLUSDT",
+   "dir": 1,
+   "n": 3,
+   "t": 1795243200,
+   "entry": 67.56,
+   "sl": 66.14,
+   "risk": 1.4200000000000017,
+   "res": "open",
+   "hits": 0,
+   "net": null,
+   "ct": null,
    "var": ""
   }
  }
