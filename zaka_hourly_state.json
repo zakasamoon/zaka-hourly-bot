@@ -6807,10 +6807,11 @@
    "sl": 60045.79,
    "risk": 179.3000000000029,
    "res": "open",
-   "hits": 0,
+   "hits": 1,
    "net": null,
    "ct": null,
-   "var": ""
+   "var": "",
+   "amt": null
   },
   "SOLUSDT|1795314600|4": {
    "key": "SOLUSDT|1795314600|4",
@@ -6836,11 +6837,12 @@
    "entry": 59224.71,
    "sl": 59496.68,
    "risk": 271.97000000000116,
-   "res": "open",
+   "res": "loss",
    "hits": 0,
-   "net": null,
-   "ct": null,
-   "var": ""
+   "net": -1.0,
+   "ct": 1795320000,
+   "var": "",
+   "amt": null
   }
  }
 }
