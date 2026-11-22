@@ -6712,10 +6712,10 @@
    "entry": 58975.69,
    "sl": 58549.99,
    "risk": 425.70000000000437,
-   "res": "open",
+   "res": "partial",
    "hits": 1,
-   "net": null,
-   "ct": null,
+   "net": 1.6,
+   "ct": 1795324200,
    "var": "",
    "amt": null
   },
